@@ -4,9 +4,9 @@
 
 export const environment = {
   production: false,
-  appName: 'Udagram',
-  apiHost: 'http://localhost:8080/api/v0'
-};
+  appName: "Udagram",
+  apiHost: "http://postgres.cdaxvdheixwz.us-east-1.rds.amazonaws.com/api/v0",
+}
 
 /*
  * For easier debugging in development mode, you can import the following file
